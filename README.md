@@ -3,8 +3,8 @@ A collection of 3D printed bicycle accessories
 
 ## INDEX
 
-  0. [Main Repo](README.md)
-  1. [3D Printed Accessories]
+  0. Main Repository
+  1. 3D Printed Accessories
     1. [3D Print Index](3D/3DINDEX.md)
     2. [Light mounts](3D/3DLIGHTMOUNTS.md)
     3. [Holders and Cases](3D/3DHOLDERSCASES.md)
@@ -12,6 +12,9 @@ A collection of 3D printed bicycle accessories
     5. [Mud guards](3D/3DMUDGUARDS.md)
     6. [Bottle holders](3D/3DBOTTLEHOLDERS.md)
     7. [Sound](3D/3DSOUND.md)
+  2. Leather Accessories
+    1. [Handle grips](LEATHERGRIPS.md)
+    2.
 
 ## ALL ITEMS
 
