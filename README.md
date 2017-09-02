@@ -13,8 +13,8 @@ A collection of 3D printed bicycle accessories
     6. [Bottle holders](3D/3DBOTTLEHOLDERS.md)
     7. [Sound](3D/3DSOUND.md)
   2. Leather Accessories
-    1. [Handle grips](LEATHERGRIPS.md)
-    2.
+    1. [Handle grips](LEATHER/LEATHERGRIPS.md)
+    2. [Sadles](LEATHER/LEATHERSADLES.md)
 
 ## ALL ITEMS
 
