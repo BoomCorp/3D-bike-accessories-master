@@ -4,5 +4,5 @@
 
 <p align="center">
   <img src="https://bicycleobsession.files.wordpress.com/2014/08/imgp4290.jpg" width="350"/>
-  <img src="https://bicycleobsession.files.wordpress.com/2014/08/imgp4287.jpg width="350"/>
+  <img src="https://bicycleobsession.files.wordpress.com/2014/08/imgp4287.jpg" width="350"/>
 </p>
