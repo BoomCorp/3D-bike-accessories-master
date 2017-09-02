@@ -3,15 +3,13 @@ A collection of 3D printed bicycle accessories
 
 ## INDEX
 
-  0. [Main Repo](README.md)
-  1. [3D Printed Accessories]
-    1. [3D Print Index](3D/3DINDEX.md)
-    2. [Light mounts](3D/3DLIGHTMOUNTS.md)
-    3. [Holders and Cases](3D/3DHOLDERSCASES.md)
-    4. [Luggage carriers](3D/3DLUGGAGECARRIERS.md)
-    5. [Mud guards](3D/3DMUDGUARDS.md)
-    6. [Bottle holders](3D/3DBOTTLEHOLDERS.md)
-    7. [Sound](3D/3DSOUND.md)
+  1. [Main Repo](README.md)
+  2. [Light mounts](LIGHTMOUNTS.md)
+  3. [Holders and Cases](HOLDERSCASES.md)
+  4. [Luggage carriers](LUGGAGECARRIERS.md)
+  5. [Mud guards](MUDGUARDS.md)
+  6. [Bottle holders](BOTTLEHOLDERS.md)
+  7. [Sound](SOUND.md)
 
 ## ALL ITEMS
 
@@ -134,7 +132,7 @@ A collection of 3D printed bicycle accessories
 <p align="center">
   <img src="https://cdn.thingiverse.com/renders/86/4e/8c/b7/d3/IMG_2498_preview_featured.jpg" width="350"/>
 </p>
-
+ 
 [Universal Handlebar mount](https://pinshape.com/items/23445-3d-printed-universal-bike-handlebar-mount)
 
 <p align="center">
@@ -196,7 +194,7 @@ Valve Cap
   <img src="http://www.3ders.org/images2014/3d-printed-accessories-for-bikes-13-2.jpg" width="350"/>
   </p>
 
-QuadLock
+QuadLock 
 
 <p align="center">
   <img src="https://coresites-cdn.factorymedia.com/twc/wp-content/uploads/2015/04/3D-Printed-Quad-Lock-Bike-Mount-Collars-19.jpg" width="350"/>
@@ -258,7 +256,7 @@ Road popper
   <img src="http://www.3ders.org/images2014/3d-printed-accessories-for-bikes-19.jpg" width="350"/>
 </p>
 
-
+  
 
 
 []()

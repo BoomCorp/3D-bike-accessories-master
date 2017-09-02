@@ -1,13 +1,14 @@
 ## INDEX
 
-  1. [Main Repo](README.md)
-  2. [Light mounts](LIGHTMOUNTS.md)
-  3. [Holders and Cases](HOLDERSCASES.md)
-  4. [Luggage carriers](LUGGAGECARRIERS.md)
-  5. [Mud guards](MUDGUARDS.md)
-  6. [Bottle holders](BOTTLEHOLDERS.md)
-  7. [Sound](SOUND.md)
-  
+  0. [Main Repo](README.md)
+  1. [3D Print Index](3D/3DINDEX.md)
+  2. [Light mounts](3D/3DLIGHTMOUNTS.md)
+  3. [Holders and Cases](3D/3DHOLDERSCASES.md)
+  4. [Luggage carriers](3D/3DLUGGAGECARRIERS.md)
+  5. [Mud guards](3D/3DMUDGUARDS.md)
+  6. [Bottle holders](3D/3DBOTTLEHOLDERS.md)
+  7. [Sound](3D/3DSOUND.md)
+
 ## SOUND
 
 [Bike Stereo System](https://learn.adafruit.com/ride-rock-diy-bike-stereo-system-with-20w-speaker/overview)
